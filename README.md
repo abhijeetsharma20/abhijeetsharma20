@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Abhijeet Sharma
-![twitter follow] https://img.shields.io/twitter/follow/abhijeet_1309?style=social
+(https://img.shields.io/twitter/follow/abhijeet_1309?style=social)
 <!--
 **abhijeetsharma20/abhijeetsharma20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
