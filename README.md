@@ -51,12 +51,12 @@ var abhijeet = new Developer
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhijeetSharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=00D4FF&text_color=ffffff" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetSharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=ffffff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijeetsharma20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=00D4FF&text_color=ffffff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetsharma20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=ffffff" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijeetSharma&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=00D4FF&currStreakLabel=ffffff" width="600"/>
+  <img src="https://streak-stats.demolab.com/?user=abhijeetsharma20&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=00D4FF&currStreakLabel=ffffff" width="600"/>
 </div>
 
 ---
@@ -80,9 +80,9 @@ var abhijeet = new Developer
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeetsharma20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeetsharma)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhijeetsharma20)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaabhijeet2008@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijeet@email.com)
 
 </div>
 
@@ -93,5 +93,5 @@ var abhijeet = new Developer
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhijeetSharma&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=abhijeetsharma20&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS"/>
 </div>
